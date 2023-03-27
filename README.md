@@ -7,13 +7,6 @@
 
 - 🌱 I’m currently learning **React Native, MongoDB, Java**
 
-- 📫 How to reach me **sdewthuru@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/sachin.dewthuru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sachin.dewthuru" height="30" width="40" /></a>
-</p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=razor519&show_icons=true&locale=en" alt="razor519" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
