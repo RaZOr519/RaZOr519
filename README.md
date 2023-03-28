@@ -1,6 +1,6 @@
-![Header](https://raw.githubusercontent.com/RaZOr519/RaZOr519/main/github-header-image%20(1).png "Header")]
-<h1 align="center">Hi 👋, I'm Sachin Dewthuru</h1>
-<h3 align="center">A passionate frontend developer and Undergradute from Sri Lanka</h3>
+![Header](https://raw.githubusercontent.com/RaZOr519/RaZOr519/main/github-header-image%20(1).png "Header")
+<h1 align="center">Welcome! 👋</h1>
+<h3 align="center">I'm a passionate frontend developer and Undergradute from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=razor519&label=Profile%20views&color=0e75b6&style=flat" alt="razor519" /> </p>
 
